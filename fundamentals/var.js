@@ -1,4 +1,4 @@
-// 'var' have only two types of scope: Global or fucntion
+// 'var' have only two types of scope: Global or function
 
 {
   {
